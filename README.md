@@ -1,3 +1,4 @@
+
 # Mobile-Application-Development
 # Messaging App
 Overview of Messaging App
@@ -53,6 +54,7 @@ Includes chatbots for automated responses and customer service.
 Integrates with other apps and services for added functionality.
 
 Conclusion
+
 Messaging apps have revolutionized the way people communicate, offering a range of features that go beyond simple text messaging. They provide secure, real-time, and versatile ways to stay connected with friends, family, and colleagues. As technology continues to evolve, messaging apps are likely to introduce even more innovative features to enhance communication further.
 
 
